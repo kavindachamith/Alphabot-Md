@@ -25,7 +25,7 @@ edit sewabot di file settings.js line 24
 `
 // setting 
 global.firtsChat = true //send firts message to new user
-global.autoread = true // auto read message
+global.autoread = false // auto read message
 global.antidelete = false // anti delete
 global.antiviewonce = true // anti view once
 global.autobio = false //auto ganti bio
@@ -55,7 +55,7 @@ global.language = indonesia //change indonesia to english if you don't understan
 // Other
 // Other
 global.botname = "Alphabot-Mdོ" //namabot kalian
-global.ownername = "ᴹᴿ᭄ ZeeoneOfcོ ×፝֟͜×" //nama kalian
+global.ownername = "ᴹᴿ᭄ paradox_k_ct ×፝֟͜×" //nama kalian
 global.myweb = "https://s.id/zeeoneofc" //bebas asal jan hapus
 global.youtube = "https://youtube.com/c/@ZeeoneOfc" //bebas asal jan hapus
 global.myweb2 = "https://s.id/zeeoneofc" //bebas
